@@ -1,0 +1,3 @@
+/home/prajwal/stock-tracker/build/CMakeFiles/stock-tracker.dir
+/home/prajwal/stock-tracker/build/CMakeFiles/edit_cache.dir
+/home/prajwal/stock-tracker/build/CMakeFiles/rebuild_cache.dir
